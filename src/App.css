@@ -12,6 +12,23 @@
   width: 60px;
 }
 
+.carrito-container {
+  height: 30px;
+  width: 100%;
+  display: flex;
+  justify-content: flex-end;
+  margin-right: 5%;
+}
+.carrito-imagen {
+  height: 30px;
+  width: 30px;
+  display: flex;
+  justify-content: flex-end;
+}
+
+.text-items {
+  color: white;
+}
 
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {

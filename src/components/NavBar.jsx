@@ -1,4 +1,5 @@
 import logo from "../logo.svg";
+import CartWidget from "./CartWidget";
 
 const NavBar = () => {
   return (
@@ -23,7 +24,10 @@ const NavBar = () => {
             <a className="nav-link" href="#">Contacto</a>
           </li>
         </ul>
+        <CartWidget items={3}/>
       </nav>
+
+     
     </div>
   );
 };
