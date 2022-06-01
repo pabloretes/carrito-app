@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/carrito-app/static/css/main.a6ca21e1.css",
-    "main.js": "/carrito-app/static/js/main.445b0132.js",
+    "main.js": "/carrito-app/static/js/main.2c4ba85a.js",
     "static/js/787.7c0161fd.chunk.js": "/carrito-app/static/js/787.7c0161fd.chunk.js",
     "static/media/carrito.png": "/carrito-app/static/media/carrito.cf3ff8c4b718aac186bc.png",
     "static/media/logo.svg": "/carrito-app/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/carrito-app/index.html",
     "main.a6ca21e1.css.map": "/carrito-app/static/css/main.a6ca21e1.css.map",
-    "main.445b0132.js.map": "/carrito-app/static/js/main.445b0132.js.map",
+    "main.2c4ba85a.js.map": "/carrito-app/static/js/main.2c4ba85a.js.map",
     "787.7c0161fd.chunk.js.map": "/carrito-app/static/js/787.7c0161fd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a6ca21e1.css",
-    "static/js/main.445b0132.js"
+    "static/js/main.2c4ba85a.js"
   ]
 }
